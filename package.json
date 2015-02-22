@@ -1,0 +1,25 @@
+{
+  "name": "quadratic-addon",
+  "version": "1.0.0",
+  "description": "Quadratic Addon -------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prestonp/quadratic-addon.git"
+  },
+  "keywords": [
+    "quadratic",
+    "formula"
+  ],
+  "author": "Preston Pham",
+  "license": "MIT",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/prestonp/quadratic-addon/issues"
+  },
+  "homepage": "https://github.com/prestonp/quadratic-addon"
+}
